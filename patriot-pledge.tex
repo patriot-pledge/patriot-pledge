@@ -1,0 +1,14 @@
+\documentclass{report}
+\usepackage{import}
+\usepackage{titlesec}
+% \titleformat{\chapter}[display]{\normalfont\bfseries}{}{0pt}{\Large}
+\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{24pt}{\huge}
+\begin{document}
+	\import{./}{title-page}
+	\pagebreak
+	\setcounter{secnumdepth}{2}
+	\setcounter{tocdepth}{2}
+	\tableofcontents
+	\import{preamble}{preamble}
+	\import{axioms/}{axioms}
+\end{document}
