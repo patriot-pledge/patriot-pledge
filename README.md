@@ -33,6 +33,7 @@ This project aims to:
 - Fork this repository
   - Maintainers may clone instead of forking
 - Set up an SSH key on your GitHub account and install it in your SSH agent
+- Set up a GPG key on your GitHub account and configure it with git (*signed commits are required*)
 - Install a TeX editor
 - Create a new git branch for your contributions
 - Make your changes
