@@ -1,9 +1,11 @@
 # The Patriot Pledge
 - [Overview](#overview)
-  - [Purpose](#purpose)
-- [How to contribute](#how-to-contribute)
+  - [Mission](#mission)
+  - [How to contribute](#how-to-contribute)
 - [Links](#links)
   - [Join a movement](#join-a-movement)
+  
+---
 
 ## Overview
 
@@ -16,7 +18,9 @@ This project serves as a working copy, is not considered finalized or complete, 
 Using a version control system (VCS) like git (currently hosted on GitHub), anyone can [contribute to the project!](#how-to-contribute)  
 It is intended that experts on various topics will submit their own proposals and citations.
 
-### Purpose
+Refer to [releases](https://github.com/patriot-pledge/patriot-pledge/releases) to see the latest revision!
+
+### Mission
 
 This project aims to:
 - Thoroughly document the issues that have the most significant impact on the welfare of U.S. citizens and residents.
@@ -25,7 +29,7 @@ This project aims to:
 - Empower people to build a unifying, comprehensive proposal for reform of U.S. governing bodies.
 
 
-## How to contribute
+### How to contribute
 *(WIP)*
 
 - Create a GitHub account
@@ -41,6 +45,7 @@ This project aims to:
 - Push your branch
 - Submit a pull request
 
+---
 
 ## Links
 ### Join a movement
@@ -48,7 +53,11 @@ This project aims to:
 - [The Work Reform Report](https://workreform.us/)
   - [Mayday 2025 Strike](https://workreform.us/MAYDAY-2025-STRIKE)
 
+<!--
 ### Resources
+
+-->
+---
 
 ## Contributors
 - Admins
